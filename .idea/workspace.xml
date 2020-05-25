@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b19204f-f78a-49a2-8d5c-3629143004f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/product_manager/ProductM.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/My_Django_Stuff/static_cdn/static_root/product_style/ProductM.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/first_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/first_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/first_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/first_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/first_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/first_project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/first_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/first_project/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_app/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/product_manager_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/sales_manager_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/sales_manager_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/sales_manager_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/sales_manager_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/sales_manager_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/sales_manager_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/sales_manager_app/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/sales_manager_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/search/templates/search/ProductCard.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/search/templates/search/ProductCard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/search/templates/search/product_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/search/templates/search/product_category.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/index/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/index/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/product/ProductCard.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/product/ProductCard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/product/product_category.html" beforeDir="false" afterPath="$PROJECT_DIR$/My_Django_Stuff/first_project/templates/product/product_category.html" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/My_Django_Stuff" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1ZcCVDX8DOp3pxSwMdWaFYGRk0K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\erken\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b19204f-f78a-49a2-8d5c-3629143004f9" name="Default Changelist" comment="" />
+      <created>1585129016556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585129016556</updated>
+      <workItem from="1585129023284" duration="241000" />
+      <workItem from="1585227713813" duration="9576000" />
+      <workItem from="1590383459432" duration="1862000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:C:/Users/erken/Desktop/CS308/Online_Store/My_Django_Stuff/first_project" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/Online_Store/My_Django_Stuff" />
+    </ignored-roots>
+  </component>
+</project>
